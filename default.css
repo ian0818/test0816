@@ -1,12 +1,111 @@
 body{
 background-color: gray;
-font-family: PMingLiU;
+font-family: DFKai-sb;
 font-size: 16px;
 font-weight:500;
 line-height: 1.5em ;
+margin-top:100px;
 }
 
 h1,h2,h4{
     text-align: center;
 }
 	
+p{
+    font-size: 24px;
+    text-align: center;
+    margin-top:50px;
+}
+
+#city,#district{
+    margin-top:50px ;
+    font-size: 36px;
+    text-align: center;
+}
+
+#time{
+    font-size: 16px;
+    text-align: center;
+    margin-top:30px;
+}
+.main-block{
+    border-radius: 35px;
+    float: left;
+    width: 71.43%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: pink;
+}
+.side-block{
+    border-radius: 35px;
+    float: right;
+    width: 28.57%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: rgb(161, 147, 149);
+}
+.date8{
+    border-radius: 35px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: rgba(0, 255, 255, 0.5);
+}
+.date2,.date9{
+    border-radius: 35px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: rgba(0, 255, 255, 0.5);
+}
+.date3{
+    border-radius: 35px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: rgba(0, 255, 255, 0.5);
+}
+.date4,.date11{
+    border-radius: 35px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: rgba(0, 255, 255, 0.5);
+}
+.date5,.date12{
+    border-radius: 35px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: rgba(0, 255, 255, 0.5);
+}
+.date6,.date13{
+    border-radius: 35px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: rgba(0, 255, 255, 0.5);
+}
+.date7,.date14{
+    border-radius: 35px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: rgba(0, 255, 255, 0.5);
+}
